@@ -2,11 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫About Me :
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
-- 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/hellocodepur).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech-related stuff.
+- 🌱 I’m currently learning more about Web Development.
 - 📫 How to reach me: [Twitter](https://twitter.com/rawatshruti_), [Gmail](mailto:shrutirawat1511@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
@@ -29,7 +25,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RawatShruti&icon=0&color=1)](https://visitcount.itsvg.in)
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=RawatShruti&label=Views&color=blue&style=plastic" alt="RawatShruti" /> </p>
 
 <div align="center">
 
